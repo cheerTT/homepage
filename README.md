@@ -1,37 +1,23 @@
 ## Welcome to SLNSpeech Homepage
 
-You can use the [editor on GitHub](https://github.com/cheerTT/SLNSpeech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SLNSpeech contains three modalities: audio, visual, and sign language, and each modality corresponds to each other in time sequence. To the best of the authors’ knowledge, SLNSpeech dataset is the first dataset that coexists three modalities of audio, visual, and sign language, and can be used to explore the characteristics of these three modalities by using self-supervised learning methods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download
 
-### Markdown
+Please clone our [repository](https://github.com/cheerTT/SLNSpeech) for conducting detailed procedures. We suggest reading [README](http://cheertt.top/SLNSpeech/) before using the dataset. We also provide the processed dataset which can be found in [README](http://cheertt.top/SLNSpeech/). If you do not want to extend the dataset, you just download it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License
+All the SLNSpeech data is intended for academic and computational use only. No commercial usage is allowed. We highly respect copyright and privacy. If you find SLNSpeech violates your rights, please contact us.
 
-```markdown
-Syntax highlighted code block
+Licensed under the Computational Use of Data Agreement (C-UDA). Plaese refer to C-UDA-1.0.pdf for more information.
 
-# Header 1
-## Header 2
-### Header 3
+## Citation
+Please cite the SLNSpeech paper if it helps your research:
 
-- Bulleted
-- List
+`Jiasong Wu, Taotao Li, Youyong Kong, Guanyu Yang, Lotfi Senhadji, Huazhong Shu, SLNSpeech:
+solving extended speech separation problem by the help of sign language`
 
-1. Numbered
-2. List
+## Contacts
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheerTT/SLNSpeech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Taotao Li](http://cheertt.top/SLNSpeech/):  220184652@seu.edu.cn
+- [Jiasong Wu](https://cse.seu.edu.cn/2019/0105/c23024a257549/page.htm): jswu@seu.edu.cn
